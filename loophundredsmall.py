@@ -1,14 +1,3 @@
-
-# n=0
-# while (n<100):
-#     n = int(input("enter a number "))
-
-
-
-
-
-
-
 n=0
 while(True):
     n = int(input("enter a number \n"))
